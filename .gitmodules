@@ -1,0 +1,12 @@
+[submodule "Prerequisites/enroll"]
+	path = Prerequisites/enroll
+	url = git@github.com:AmarildoGrembi/enroll.git
+[submodule "Prerequisites/airdrop"]
+	path = Prerequisites/airdrop
+	url = git@github.com:AmarildoGrembi/airdrop.git
+[submodule "Prep/anchor-vault-q3"]
+	path = Prep/anchor-vault-q3
+	url = git@github.com:AmarildoGrembi/anchor-vault-q3.git
+[submodule "Week1/solana-starter"]
+	path = Week1/solana-starter
+	url = git@github.com:AmarildoGrembi/solana-starter.git
