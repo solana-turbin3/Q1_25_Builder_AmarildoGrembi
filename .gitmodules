@@ -13,3 +13,6 @@
 [submodule "Week2/vault"]
 	path = Week2/vault
 	url = git@github.com:AmarildoGrembi/vault.git
+[submodule "Capstone/gamefi-collect-marketplace"]
+	path = Capstone/gamefi-collect-marketplace
+	url = git@github.com:parikshitlfj12/gamefi-collect-marketplace.git
