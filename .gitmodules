@@ -10,3 +10,6 @@
 [submodule "Week1/solana-starter"]
 	path = Week1/solana-starter
 	url = git@github.com:AmarildoGrembi/solana-starter.git
+[submodule "Week2/vault"]
+	path = Week2/vault
+	url = git@github.com:AmarildoGrembi/vault.git
