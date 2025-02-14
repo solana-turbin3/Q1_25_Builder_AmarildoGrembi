@@ -16,3 +16,6 @@
 [submodule "Capstone/gamefi-collect-marketplace"]
 	path = Capstone/gamefi-collect-marketplace
 	url = git@github.com:parikshitlfj12/gamefi-collect-marketplace.git
+[submodule "Week2/escrow"]
+	path = Week2/escrow
+	url = git@github.com:AmarildoGrembi/escrow.git
